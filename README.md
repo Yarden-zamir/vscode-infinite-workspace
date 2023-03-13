@@ -3,6 +3,8 @@
 
 # VS Code Infinite Workspace
 
+![exampple](./.github/media/example.webm)
+
 Prototype built in order to recreate a figma-like canvas experience in Visual Studio Code.
 
 ### Development
